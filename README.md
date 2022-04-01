@@ -35,4 +35,4 @@ Qui verranno raccolte le proposte da parte della community. Cercheremo di implem
 Per poter rendere partecipe tutta la communty, qui verranno creati dei moduli tematici volti a valutare il progetto, proporre cambiamenti, idee e molte altre cose.
 
 - [Proposte](https://docs.google.com/forms/d/1rftN6WwSHZ8JubceY8jll8KKNEUk5hsot4QEx3RZdWo/edit): modulo per proporre cambiamenti e nuove funzionalità non presenti nella sezione [proposte](#proposte)
-- [Collaborazioni](): modulo per proporre una collaborazione con un proprio progetto
+- [Collaborazioni](https://docs.google.com/forms/d/1yDm4lhpzfPGm1LEEZnfAqbU11kOKqofdHItL0Ukyc10/edit?usp=sharing): modulo per proporre una collaborazione con un proprio progetto
