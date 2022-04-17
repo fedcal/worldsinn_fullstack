@@ -24,6 +24,8 @@ Qui troverete le funzionalità implementate e da implementare, il progetto verr�
 - [ ] Sezioni: creare una pagina per raccogliere le varie sezioni e dare qualche dettaglio su di esse.
 - [ ] Account: Creare una sezione per registrarsi ed effettuare il login in sicurezza
 - [ ] Ricerca giocatori/master/sessioni: creare una sezione per ricercare giocatori/master/sessioni
+- [ ] Condivisione Homebrew: sezione in cui condividere materiale che verrà poi ripubblicato
+- [ ] Gestione sessioni: gestire le sessioni con schede pg, note, mostri, iniziativa ecc.
 
 ## Proposte
 Qui verranno raccolte le proposte da parte della community. Cercheremo di implementarle tutte, nel limite delle nostre capacità e man mano le inseriremo nella sezione [documentazione](#documentazione)
